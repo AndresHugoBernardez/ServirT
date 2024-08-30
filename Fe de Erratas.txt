@@ -1,0 +1,1 @@
+Los transistores que trabajan en corte y saturación no están polarizados de la forma óptima, en general se usa una configuración emisor común pero aquí no se hizo así, sin embargo funcionó.
